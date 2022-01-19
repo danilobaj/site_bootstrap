@@ -1,0 +1,32 @@
+body {
+  font: 18px Arial, sans-serif;
+}
+.logo-pag {
+  border-radius: 50%;
+}
+.navbar {
+  background-color: #eaecee;
+}
+.quem-somos {
+  background-color: #5499c7;
+  color: white;
+}
+.margin {
+  padding-top: 15px;
+  padding-bottom: 20px;
+}
+.somosumtime {
+  margin-top: 20px;
+}
+.parceiros {
+  background-color: #eaecee;
+}
+
+.servicos {
+  background-color: #5499c7;
+  color: white;
+}
+
+.bg-footer {
+  background-color: #eaecee;
+}
